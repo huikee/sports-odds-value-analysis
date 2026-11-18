@@ -69,13 +69,13 @@ flowchart LR
 ## Screenshots
 
 ### Value search
-![Value search](screenshots/search.png)
+![Value search](search.png)
 
 ### Bet tracking & CLV
-![Bet tracking](screenshots/bets.png)
+![Bet tracking](bets.png)
 
 ### Statistics
-![Statistics](screenshots/stats.png)
+![Statistics](stats.png)
 
 ### AI-assisted result import
-![AI result import](screenshots/ai-import.png)
+![AI result import](ai-import.png)
