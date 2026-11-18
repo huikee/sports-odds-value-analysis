@@ -68,9 +68,14 @@ flowchart LR
 
 ## Screenshots
 
-<!-- Add screenshots here, e.g. ![Main view](screenshots/main.png) -->
-*Coming soon*
+### Value search
+![Value search](screenshots/search.png)
 
----
+### Bet tracking & CLV
+![Bet tracking](screenshots/bets.png)
 
-*This project was built for learning and data analysis. Gamble responsibly.*
+### Statistics
+![Statistics](screenshots/stats.png)
+
+### AI-assisted result import
+![AI result import](screenshots/ai-import.png)
